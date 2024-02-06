@@ -1,0 +1,109 @@
+.websiteBackground {
+    background-color: #f2f3f5;
+}
+
+.topBar {
+    background-color: #0b0b31;
+}
+
+.topBarLink p {
+    color: #a9a9a9;
+}
+
+.topBarNav {
+    color: #a9a9a9;
+}
+
+.topBarNav ul {
+    list-style: none;
+}
+
+.topBarNav li {
+    margin-right: 10px;
+}
+
+.logo img{
+    margin-top: 20px;
+}
+.mainNavigationButtons li{
+    margin-right: 5px;
+    background-color: #0b0b31; 
+    color: #fffff2;
+}
+.heroImage img {
+    margin-top: 10px;
+    width: 100%;
+    height: auto;
+}
+
+.carouselGroup li {
+    list-style: none;
+}
+
+.carouselButton{
+    background-color: #808080;
+    margin-top: 5px;
+    margin-right: 5px
+}
+
+.blogBorder {
+    border: solid 2px #a9a9a9;
+    border-left: none;
+    border-bottom: none;
+}
+
+.blogBorderTop {
+    border-top: solid 2px #a9a9a9;
+}
+
+.blogTitle h1 {
+    font-size: 60px;
+    color: #0e1e31;
+    margin: 35px 0px 35px 0px;
+}
+
+.blogImg img {
+    height: auto;
+    width: 225px;
+    margin-bottom: 35px;
+}
+
+.blogDescription p{
+    color: #75715f;
+
+}
+
+.blogButton input {
+    background-color: #213349;
+    color: #faf5e5;
+    margin: 35px 0 35px 0;
+    padding: 4px;
+}  
+
+/*BLOG ROW END*/
+/*SERVICE ROW START*/
+
+.serviceBackgroundColor {
+    background: linear-gradient(171deg, rgba(28,45,63,1) 20%, rgba(15,24,33,1) 77%);
+}
+
+.serviceBackgroundColor h1, h3, h4{
+    color: #ffffff;
+}
+
+.serviceBackgroundColor p{
+    color: #5f6965;
+}
+
+.serviceBackgroundColor input {
+    background-color: #213349;
+    color: #faf5e5;
+    margin: 0px 0px 50px 50px;
+    padding: 4px;
+}  
+.footerBackground {
+    background-color: #0e1e31;
+}
+.footerBackground p {
+    color: #e5d79f;
+}
